@@ -1,6 +1,6 @@
 # Drone Spoofing Detector Main Repository
 
-* This repository holds the auxiliary files besides the application itself *
+** This repository holds the auxiliary files besides the application itself **
 
 ## Summary
 - This software utilizes beacon technology capturing drone information to display it on a topographic map.
