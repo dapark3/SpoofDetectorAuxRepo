@@ -1,7 +1,7 @@
 # Presentations
 
 ### Design Presentation
-[DesignDay.pdf](https://github.com/dapark3/SpoofDetectorMainRepo/files/12923042/DesignDay.pdf)
+[DesignDay.pdf](https://github.com/dapark3/SpoofDetectorMainRepo/blob/main/Presentations/DesignDay.pdf)
 
 
 ### 1st Iteration Presentation
