@@ -1,4 +1,6 @@
-# Drone Spoofing Detector
+# Drone Spoofing Detector Main Repository
+
+* This repository holds the auxiliary files besides the application itself *
 
 ## Summary
 - This software utilizes beacon technology capturing drone information to display it on a topographic map.
@@ -21,13 +23,3 @@ distinguish between real and 'fake' information.
   - Aaron Pierce (CEO)
   - Gary Bullock (CTO)
   - Chris Mailey (Senior Dev)
-
-## Links
-- <a href="https://github.com/users/dapark3/projects/1">Project Board</a>
-
-## Code Repositories
-- <a href="https://github.com/dapark3/SpoofDetector/releases/tag/v1.0.0">Iteration 1 Release</a>  
-- <a href="https://github.com/dapark3/SpoofDetector/releases/tag/v2.0.0">Iteration 2 Release</a>  
-- <a href="https://github.com/dapark3/SpoofDetector/releases/tag/v3.0.0">Iteration 3 Release</a>
-- <a href="https://github.com/dapark3/SpoofDetector/releases/tag/v4.0.0">Iteration 4 Release</a>
-- <a href="https://github.com/dapark3/SpoofDetector/releases/tag/v5.0.0">Iteration 5 Release</a>
