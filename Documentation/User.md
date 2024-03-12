@@ -16,14 +16,11 @@ From here, you can see drones on a topographic map with a drone path that it has
 ## Step 3
 Click on the drone or the operator will bring up a popup with information related to said item.
 ![image](https://github.com/dapark3/SpoofDetectorMainRepo/assets/98801367/920fa02c-d2e5-4cbd-ad02-77f5b5a36588)
+While having the drone selected, the user can click on the camera button in the top right to see a point of view that is not solely from space.
+The user can also use the middle-mouse button to move the camera as they please.
 ![image](https://github.com/dapark3/SpoofDetectorMainRepo/assets/98801367/f698ec93-69bd-42f2-b9c7-c3567c29f669)
 
 ## Step 4
 In the top left corner of the screen, the user can a button, "Clean".
 "Clean", when toggled on, will show only the valid/filtered data points. When "Clean" is toggled off, the user will be able to see filtered and unfiltered data points at the same point.
 ![image](https://github.com/dapark3/SpoofDetectorMainRepo/assets/98801367/44c43a36-49cb-4700-b83c-8344ae612116)
-
-## Step 6
-While having the drone selected, the user can click on the camera button in the top right to see a point of view that is not solely from space.
-The user can also use the middle-mouse button to move the camera as they please.
-![image](https://github.com/dapark3/SpoofDetector/assets/98801367/e061a5b2-1e5f-4a01-bae9-416d07e57633)
