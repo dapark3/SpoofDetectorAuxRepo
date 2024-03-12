@@ -3,27 +3,25 @@
 The intended user for this program would likely have a technical background, but even so, this program should be easy for a user to navigate and access the available features.
 
 ## Step 1
-After cloning the repo, open the directory Project/src/View and click on node.js
-- INSERT IMAGE
+Clone the "SpoofDetectorApp" repository, then in a Command Prompt, use the cd command to navigate to <code>View</code>
+- Run the command <code>node node.js</code> to start the web server
+  - You should see 'Server running on port 3000' in the command prompt
+- Open localhost:3000 to view the web page
+![image](https://github.com/dapark3/SpoofDetectorMainRepo/assets/98801367/46c396f2-8cd2-482b-9361-26842388ef3c)
 
 ## Step 2
-After accessing the node.js file, the user can then click on one of the icons provided for their internet network of choice.
-![image](https://github.com/dapark3/SpoofDetector/assets/112041868/9de8efa9-1521-4600-9213-9cfb94dea4b3)
+From here, you can see drones on a topographic map with a drone path that it has taken through the air. As well, operator location is displayed with a red dot on the ground to signify where the person is flying the drone from
+![image](https://github.com/dapark3/SpoofDetectorMainRepo/assets/98801367/a0bba2d1-de14-448e-8664-d53bbb42a66a)
 
 ## Step 3
-Once accessed, the user will be presented with a map of the world.
-![image](https://github.com/dapark3/SpoofDetector/assets/98801367/ec2573df-cf95-4eb9-a3ae-7446a9bc99b1)
+Click on the drone or the operator will bring up a popup with information related to said item.
+![image](https://github.com/dapark3/SpoofDetectorMainRepo/assets/98801367/920fa02c-d2e5-4cbd-ad02-77f5b5a36588)
+![image](https://github.com/dapark3/SpoofDetectorMainRepo/assets/98801367/f698ec93-69bd-42f2-b9c7-c3567c29f669)
 
 ## Step 4
-In the top left corner of the screen, the user can see two buttons, "Clean" and "Refresh". 
-"Clean" will show only the valid/filtered data points. When "Clean" is toggled off, the user will be able to see filtered and unfiltered data points at the same point.
-"Refresh" will update the web page with the information from the server, using the 'cleaned' data from data_processor.py.
-![image](https://github.com/dapark3/SpoofDetector/assets/98801367/f785ddd7-e40f-4cd3-8a29-99941688aad5)
-
-## Step 5
-The first time a user clicks refresh, the web page updates and populates the map with drones from a test server.
-The user can click on a specific drone to see the unique ID, latitude, longitude, altitude, and rating listed in the top corner.
-![image](https://github.com/dapark3/SpoofDetector/assets/98801367/e6640922-dbad-40be-8fe2-cc7f08fd9d5a)
+In the top left corner of the screen, the user can a button, "Clean".
+"Clean", when toggled on, will show only the valid/filtered data points. When "Clean" is toggled off, the user will be able to see filtered and unfiltered data points at the same point.
+![image](https://github.com/dapark3/SpoofDetectorMainRepo/assets/98801367/44c43a36-49cb-4700-b83c-8344ae612116)
 
 ## Step 6
 While having the drone selected, the user can click on the camera button in the top right to see a point of view that is not solely from space.
