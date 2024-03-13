@@ -45,7 +45,7 @@
 
 ## Testing
 - Open a CLI instance
-- CD into Project/src/Model
+- CD into /Model
   - Run <code>coverage run -m unittest discover</code>
   - Then, run <code>coverage report --omit='test_*'</code>
     - This creates a coverage report of the unit tests
@@ -53,7 +53,7 @@
 
   
 ## Run the Project
-- Locate node.js in Project/src/View
+- Locate node.js in /View
 - PyCharm allows devs to run a localhost with a single-click in a web browser
 - Alternatively, you can CD into Project/src/View using a CLI and run node node.js
  - The webpage can be viewed from localhost:3000
