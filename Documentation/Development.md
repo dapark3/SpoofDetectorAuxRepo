@@ -23,7 +23,7 @@
 ## Replicate the Development Environment
 
 ### Clone GitLab repository
-- In Git Bash, run the command <code>git clone https://github.com/dapark3/SpoofDetector.git</code>
+- In Git Bash, run the command <code>git clone https://github.com/dapark3/SpoofDetectorApp.git</code>
 
 ### Installing dependencies
  - Open a CLI instance
