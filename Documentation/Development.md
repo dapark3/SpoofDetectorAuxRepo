@@ -28,9 +28,9 @@
 ### Installing dependencies
  - Open a CLI instance
  - Python:
-   - In the Project/src/Model directory, run <code>pip install -r requirements.txt</code>
+   - In the /Model directory, run <code>pip install -r requirements.txt</code>
  - Node:
-   - In the Project/src/View directory, run <code>npm install</code>
+   - In the /View directory, run <code>npm install</code>
 
 
 ## Linting
