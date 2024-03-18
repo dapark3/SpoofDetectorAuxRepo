@@ -1,23 +1,15 @@
 # Development Environment Manual
 
-## Backend & Frontend
-- Frontend
-  - Node.js to run web server for web page
-  - Serve-index middleware for directory listings
-- Backend
-  - Python
-    - json, os, logging, csv, datetime, and requests libraries
-    - Unittest for testing purposes
+## Tech Stack
+- Unreal Engine
+  - Uses the Cesium plugin
 
 
 ## Installing Prerequesites
-- PyCharm Community Edition (Any IDE works, PyCharm works well with Python)
-  - [https://www.jetbrains.com/idea/download/?section=windows](https://www.jetbrains.com/pycharm/download/?section=windows)
-- Git
-  - [https://git-scm.com/downloads](https://git-scm.com/downloads)
-- Pip & Npm (Package managers for dependencies)
-  - [https://pypi.org/project/pip/](https://pypi.org/project/pip/)
-  - [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
+- Epic Games Launcher
+  - Needed to install unreal engine
+- Visual Studio Community
+  - THIS IS DIFFERENT FROM VS CODE. For compatability purposes, you need some version of Visual Studio, not VS Code. VS community is the free version.
 
 
 ## Replicate the Development Environment
@@ -25,22 +17,13 @@
 ### Clone GitLab repository
 - In Git Bash, run the command <code>git clone https://github.com/dapark3/SpoofDetectorApp.git</code>
 
-### Installing dependencies
- - Open a CLI instance
- - Python:
-   - In the /Model directory, run <code>pip install -r requirements.txt</code>
- - Node:
-   - In the /View directory, run <code>npm install</code>
-
-
-## Linting
-- This project uses two linters
-  - EsLint for the Frontend
-  - Ruff for the Backend
-- GitHub automatically runs the linters through an action workflow
-  - The workflow installs the required dependencies
-  - The workflow runs both linters automatically and fixes any issues
-  - The linters also act as formatters and formats the code
+### Rebuild solution file
+- Unreal engine projects use Visual Studio solution files to point to engine components
+  - If you pull a repository from the web, the solution file will most likely not be accurate for your local machine
+- Open the repository folder
+  - Right click on the file with the '.uproject' extention
+  - Click 'Show more options' if on Windows 11
+  - Click 'Generate Visual Studio project files'
 
 
 ## Testing
@@ -53,35 +36,9 @@
 
   
 ## Run the Project
-- Locate node.js in /View
-- PyCharm allows devs to run a localhost with a single-click in a web browser
-- Alternatively, you can CD into Project/src/View using a CLI and run node node.js
- - The webpage can be viewed from localhost:3000
+- The project can be opened directly from the folder by clicking the '.uproject' file
+- As well, you can launch the project from the Epic Games Launcher
+  - Open Epic Games, log in, click Unreal Engine
+  - Once in the UE menu, open the project and wait for it to load
 
-- Now you should be viewing a topographic map! Look around for drones!
-
-
-## Containerization via Docker
-- Instead of manually installing the dependencies and running the project, you can simply build a docker image and run a container from the image
-- This can be done through an IDE with a docker extension (VS, PyCharm) or through a CLI
-
-- IDE (PyCharm):
-  - Click the Dockerfile, then click "Edit 'Dockerfile'"
-  - Set the image tag to whatever name you choose
-  - Click 'Modify Options', then click 'Bind Ports -p'
-  - Set 'Bind Ports' to 3000:3000
-  - Click apply
-  - Click "Build Image for 'Dockerfile'"
-    - This will create an image with the set tag and binded port 3000
-    - This process may take around a minute
-  - Run the Dockerfile
-    - This will create a container of the image that can then be worked on
-- CLI:
-  - From the root directory, run <code>docker build -t 'tag' -p 3000:3000 ./</code>
-    - This will build an image with the tag 'tag' and binded to port 3000
-  - Next, run <code>docker run 'tag'</code>
-    - This will create a container of the image 'tag'
-      
-- Now, you should have a container of the built docker image.
-  - The webpage can be viewed from localhost:3000
-
+- Now you should be viewing a topographic map in unreal!
