@@ -14,7 +14,7 @@
 ### 2. Rebuild solution file
 - Unreal engine projects use Visual Studio solution files to point to engine components
   - If you pull a repository from the web, the solution file will most likely not be accurate for your local machine
-- Open the repository folder
+- Open the 'ueui' folder
   - Right click on the file with the '.uproject' extention
   - Click 'Show more options' if on Windows 11
   - Click 'Generate Visual Studio project files'
