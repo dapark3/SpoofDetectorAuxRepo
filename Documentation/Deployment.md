@@ -54,7 +54,7 @@
 ## Deployment Steps
 
 ### 1. Clone the Repository  
- - In Git Bash, run the command <code>git clone https://github.com/dapark3/SpoofDetector.git</code>
+ - In Git Bash, run the command <code>git clone https://github.com/dapark3/SpoofDetectorApp.git</code>
 
  ### 2. Open Project in an IDE or a CLI
 - You can build a docker image either using an IDE with extensions or directly through the command-line
