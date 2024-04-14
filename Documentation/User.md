@@ -22,6 +22,7 @@ The intended user for this program would likely have a technical background, but
 ![i5p5](https://github.com/dapark3/SpoofDetectorMainRepo/assets/98801367/d1f60d5d-ac49-42e5-9c97-39eb46820552)
 
 ## Step 4
+![i5p3](https://github.com/dapark3/SpoofDetectorMainRepo/assets/98801367/f4ce8895-3c59-4fa3-b2b0-3db7caff8a59)
 - At the top of the screen, the user should see some buttons.
 - "Home" takes you back to the landing page
 - "Map" takes you to the map page (which you are already on)
@@ -29,7 +30,6 @@ The intended user for this program would likely have a technical background, but
 - "Toggle Clean" will toggle between showing both "clean and dirty" data or only "clean" data
 - "Previous Drone" moves the camera to the previous drone in the dataset
 - "Next Drone" moves the camera to the next drone in the dataset
-![i5p3](https://github.com/dapark3/SpoofDetectorMainRepo/assets/98801367/e738ab63-85d5-4ea6-8bc3-1c9ae1aadb57)
 
 ## Step 5
 - When zooming out, the user should be able to see the data points from afar
