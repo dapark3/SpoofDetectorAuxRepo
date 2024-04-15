@@ -1,4 +1,4 @@
-# Drone Spoofing Detector Main Repository
+# Drone Spoofing Detector Auxiliary Repository
 
 ** This repository holds the auxiliary files besides the application itself **
 
