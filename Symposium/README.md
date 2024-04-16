@@ -13,4 +13,4 @@ Team Photo
 
 Samuel Gross Experience:
 
-I had a really great at the symposium. I got to meet a lot of new people, and people seemed very interested in our project. It was cool to see people be so fascinated by a software that has been rather normal and confortable to me at this point. It was fun to express the idea behind our project in a shorter time frame.
+I had a really great at the symposium. I got to meet a lot of new people, and people seemed very interested in our project. It was cool to see people be so fascinated by a software that has been rather normal and comfortable to me at this point. It was fun to express the idea behind our project in a shorter time frame. Our booth was a bit cramped, but we made do, and the judges were really nice.
