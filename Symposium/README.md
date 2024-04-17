@@ -29,7 +29,7 @@ I really enjoyed showing off the project to my parents, being able to finally sh
 
 ### Ashley Vanaman
 
-q
+I had fun being able to show people from outside our major what we have done. I really liked being able to see what other majors have been working on and hear about their experiences with their projects that weren't CS related. I knew that we had a pretty cool project, but it made it even better to see people who don't know much about CS to think it was as cool as we did. As much as I loved being able to show what we accomplished, I think I liked being able to see what everyone else did a bit more. 
 
 ### Michaela Walker
 
