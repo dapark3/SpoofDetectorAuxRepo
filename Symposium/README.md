@@ -33,4 +33,4 @@ q
 
 ### Michaela Walker
 
-q
+I had a fun experience at the student symposium. It was great to interact with people from different majors, see all the different projects, and to communicate with people interested in our project. People at the symposium were genuinely interested in other people's projects and open to any communications and listening to people's stories who relate to the projects in some way. The judges were extremely kind and genuinely interested in our project, they asked questions, gave remarks about our projects and also gave us life long guidance by giving us advice for future employment and careers.
