@@ -7,6 +7,13 @@ Dr. Rutter
 Liz Marthaler
 ![image](https://github.com/dapark3/SpoofDetectorAuxRepo/assets/52175733/c50758e0-5561-4b24-884d-2af94a9dfdbd)
 
+Haley Blanton
+![IMG_4059](https://github.com/dapark3/SpoofDetectorAuxRepo/assets/112041868/d9c642f9-884b-412b-8f47-54688dd7e408)
+
+Zaire
+![IMG_4064](https://github.com/dapark3/SpoofDetectorAuxRepo/assets/112041868/3c6554d4-c539-439c-abb5-69828385c879)
+
+
 Team Photo
 ![image](https://github.com/dapark3/SpoofDetectorAuxRepo/assets/52175733/70910ab4-cf23-468a-936c-d234ee182358)
 
