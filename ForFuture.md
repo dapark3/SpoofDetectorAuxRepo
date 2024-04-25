@@ -14,3 +14,5 @@
   * Cesium Time control will go off the rails if you let it run too long. The server needs to do a better job of managing time stamps, but you could also filter them on your end when it connects
   
   * The Server could use more rigorous testing when it connects
+
+  * Links in READMEs will be broken after repo transfer
